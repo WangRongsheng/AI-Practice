@@ -20,3 +20,8 @@
   - 1.6、[可解释性分析-CAM类激活热力图可视化](./图像分类/6-【Pytorch】可解释性分析-CAM类激活热力图可视化)
   - 1.7、[可解释性分析-Captum可视化](./图像分类/7-【Pytorch】可解释性分析-Captum可视化)
 - ...
+
+# 推荐内容
+
+- [https://github.com/TommyZihao/Train_Custom_Dataset](https://github.com/TommyZihao/Train_Custom_Dataset)
+- [https://github.com/Fafa-DL/Awesome-Backbones](https://github.com/Fafa-DL/Awesome-Backbones)
